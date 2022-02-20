@@ -1,11 +1,14 @@
 ### Hi there I am Yousef Gheibi 👋
 
 - 🔭 I’m currently working on web application development
+- 📫 How to reach me: gheibiyousef2000@gmail.com
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-<img src="https://github-readme-stats.vercel.app/api?username=yousefgheibi&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 **yousefgheibi/yousefgheibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://github-readme-stats.vercel.app/api?username=yousefgheibi&show_icons=true&theme=ADD_THEME_HERE" width="400">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
