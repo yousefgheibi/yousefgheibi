@@ -1,6 +1,8 @@
 ### Hi there I am Yousef Gheibi 👋
 
 - 🔭 I’m currently working on web application development
+
+<img src="https://github-readme-stats.vercel.app/api?username=yousefgheibi&show_icons=true&theme=ADD_THEME_HERE" width="400">
 <!--
 **yousefgheibi/yousefgheibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
