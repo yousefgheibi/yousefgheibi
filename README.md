@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://yousefgheibi.ir/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gheibi_yousef/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/skullbreaker79)
-
+</br>
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=yousefgheibi.yousefgheibi)
 
 Computer engineering student, interested in cybersecurity , Design and development Web Applications Software . I am proficient in Angular , Angular material and PWA .
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="318" height="238" />
   
+</br>
 
 **Talking about Personal Stuffs:**
 
@@ -35,7 +36,7 @@ Computer engineering student, interested in cybersecurity , Design and developme
 - 📝 [Resume](https://yousefgheibi.ir/resume.pdf).
 
 </br>
-
+</br>
 
 📈 **My GitHub Stats:**
 
