@@ -54,7 +54,6 @@ Computer engineering student, interested in cybersecurity , Design and developme
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
 </div>
-
 </br>
 
 📈 **My GitHub Stats:**
