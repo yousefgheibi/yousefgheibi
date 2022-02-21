@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/skullbreaker79)
 </hr>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=yousefgheibi.yousefgheibi)
+### Glad to see you here! &nbsp;
 
 Computer engineering student, interested in cybersecurity , Design and development Web Applications Software . I am proficient in Angular , Angular material and PWA .
 
