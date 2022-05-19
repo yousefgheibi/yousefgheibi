@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 ### Glad to see you here! &nbsp;
 
 Computer engineering student, interested in cybersecurity , Design and development Web Applications Software . I am proficient in Angular , Angular material and PWA .
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="318" height="208" />
   
 </br>
 
