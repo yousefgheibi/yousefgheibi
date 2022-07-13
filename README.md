@@ -34,7 +34,7 @@ Front-End developer with proven ability to work effectively with senior develope
 - 👨🏻‍💻 I’m currently working on something cool;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: gheibiyousef2000@gmail.com;
-- 📝 [Resume](https://yousefgheibi.ir/resume.pdf).
+- 📝 [Resume](https://yousefgheibi.ir/).
 
 </br>
 
