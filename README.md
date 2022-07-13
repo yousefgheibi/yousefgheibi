@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Glad to see you here! &nbsp;
 
-Computer engineering student, interested in cybersecurity , Design and development Web Applications Software . I am proficient in Angular , Angular material and PWA .
+Front-End developer with proven ability to work effectively with senior developers who spend more time training. Eager for personal growth and software development, I participated in several coding boot camps for over 1000 hours to learn new languages while strengthening existing skills. Be ready to use your passion for programming in a talented engineering team to develop quality solutions. 
   
 </br>
 
