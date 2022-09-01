@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 ### Glad to see you here! &nbsp;
 
-Front-End developer with proven ability to work effectively with senior developers who spend more time training. Eager for personal growth and software development, I participated in several coding boot camps for over 1000 hours to learn new languages while strengthening existing skills. Be ready to use your passion for programming in a talented engineering team to develop quality solutions. 
+A self-taught Front End Developer with +2 of experience working with Javascript / Typescipt / Angular / Ionic and passion for responsive website design. Adept at contributing to a highly collaborative work environment, finding solutions, and determining customer satisfaction. In addition, I am interested in security and reverse engineering and I do minor activities in this field.
+ 
   
 </br>
 
