@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Glad to see you here! &nbsp;
 
-A self-taught Front End Developer with +2 of experience working with Javascript / Typescipt / Angular passion for responsive website design. Adept at contributing to a highly collaborative work environment, finding solutions, and determining customer satisfaction. In addition, I am interested in security and reverse engineering and I do minor activities in this field.
+A self-taught Front End Developer with +2 of experience working with Javascript / Typescript / Angular and a passion for responsive website design. Knowledgeable in the user interface and debugging processes. Enthusiasm in implementing new technologies. Aiming to leverage my skills to successfully fill the Front-end Developer role at your company. In addition, I am interested in security and reverse engineering and do minor activities in this field.
  
   
 </br>
