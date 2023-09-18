@@ -23,7 +23,13 @@ Here are some ideas to get you started:
 
 ### Glad to see you here! &nbsp;
 
-A self-taught Front End Developer with +2 of experience working with Javascript / Typescript / Angular and a passion for responsive website design. Knowledgeable in the user interface and debugging processes. Enthusiasm in implementing new technologies. I'm always looking for opportunities to leverage my technical skills and passion for development to contribute to innovative projects.
+As a dedicated Frontend Developer with a focus on Angular, I possess a strong foundation in frontend development and an in-depth understanding of the Angular framework. With 2 years of experience, I have successfully worked on multiple projects, transforming complex requirements into beautiful, scalable, and maintainable web applications.
+
+Utilizing my proficiency in Angular, TypeScript, HTML, CSS, and JavaScript, I have excelled in building responsive interfaces that provide exceptional user interactions. Leveraging my expertise in Angular components, services, routing, and state management, I have developed feature-rich applications that cater to both business needs and user requirements.
+
+With a commitment to delivering high-quality code, I ensure that my applications are robust, efficient, and well-structured. I continuously expand my knowledge to stay at the forefront of web development advancements, keeping up with the latest tools, techniques, and best practices in the industry.
+
+I am passionate about collaborating on innovative solutions that drive business growth. Let's connect and explore opportunities to create remarkable digital experiences together.
  
   
 </br>
