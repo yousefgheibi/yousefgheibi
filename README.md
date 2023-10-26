@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Glad to see you here! &nbsp;
 
-As a dedicated Frontend Developer with a focus on Angular, I possess a strong foundation in frontend development and an in-depth understanding of the Angular framework. With 2 years of experience, I have successfully worked on multiple projects, transforming complex requirements into beautiful, scalable, and maintainable web applications.
+As a dedicated Frontend Developer with a focus on Angular, I possess a strong foundation in frontend development and an in-depth understanding of the Angular framework. With 3 years of experience, I have successfully worked on multiple projects, transforming complex requirements into beautiful, scalable, and maintainable web applications.
 
 Utilizing my proficiency in Angular, TypeScript, HTML, CSS, and JavaScript, I have excelled in building responsive interfaces that provide exceptional user interactions. Leveraging my expertise in Angular components, services, routing, and state management, I have developed feature-rich applications that cater to both business needs and user requirements.
 
