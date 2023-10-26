@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Hi there, I'm Yousef Gheibi** &nbsp;
-Glad to see you here!
+**Hi there, I'm Yousef Gheibi**
 
 As a dedicated Frontend Developer with a focus on Angular, I possess a strong foundation in frontend development and an in-depth understanding of the Angular framework. With 3 years of experience, I have successfully worked on multiple projects, transforming complex requirements into beautiful, scalable, and maintainable web applications.
 
