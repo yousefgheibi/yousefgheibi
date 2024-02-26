@@ -28,7 +28,7 @@ I am passionate about collaborating on innovative solutions that drive business 
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: gheibiyousef2000@gmail.com;
-- 📝 [Resume](https://drive.google.com/file/d/15ZAz18GCRqh0Wpfrg1XoQJ8AoSoQ_dYb/view?usp=sharing).
+- 📝 [resume](https://drive.google.com/file/d/1xKZkGRH75Ryn_mYikvjFGndRfNvkUnis/view?usp=drive_link).
 
 </br>
 
