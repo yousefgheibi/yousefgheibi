@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 **Hi there, I'm Yousef Gheibi**
 
-As a dedicated Frontend Developer with a focus on Angular, I possess a strong foundation in frontend development and an in-depth understanding of the Angular framework. With 3 years of experience, I have successfully worked on multiple projects, transforming complex requirements into beautiful, scalable, and maintainable web applications.
+Experienced Frontend Developer with +3 years , adept at creating scalable web applications. Familiar with backend technologies. Committed to clean code and delivering high-quality user experiences. Passionate about staying up-to-date with the latest frontend technologies and best practices.
 
 I am passionate about collaborating on innovative solutions that drive business growth. Let's connect and explore opportunities to create remarkable digital experiences together.
  
