@@ -27,7 +27,7 @@ Stay up to date with the latest frontend technologies and best practices.
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: gheibiyousef2000@gmail.com;
-- 📝 [resume](https://drive.google.com/file/d/14W0xJy1Oc0ScKZGNxNOqgOlgOzHkHwk9/view?usp=drive_link).
+- 📝 [resume](https://drive.google.com/file/d/13X_3Rq_2L4rVO3bkyk4R2mdUX53eXhVP/view?usp=sharing).
 
 </br>
 
