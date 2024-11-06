@@ -19,7 +19,7 @@ Experienced Front-End Developer with over 3 years of hands-on experience in
 building scalable web applications using Angular. Proficient in creating clean
 and maintainable code while delivering high-quality user experiences. Familiar
 with backend technologies and committed to staying up to date with the
-latest frontend trends and best practices
+latest frontend trends and best practices.
 
   
 </br>
