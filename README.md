@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 **Hi there, I'm Yousef Gheibi**
 
-Experienced Front-End Developer with over 4 years of hands-on experience in designing and building scalable web applications using Angular. Proficient in creating clean and maintainable code while delivering high-quality user experiences. Additionally famier in the concepts of React and committed to staying up to date with the latest frontend trends and best practices.
+Experienced Front-End Developer with over 4 years of hands-on experience in designing and building scalable web applications using Angular. Proficient in creating clean and maintainable code while delivering high-quality user experiences. Additionally familiar in the concepts of React and committed to staying up to date with the latest frontend trends and best practices.
   
 </br>
 
