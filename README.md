@@ -25,7 +25,7 @@ Experienced Front-End Developer with over 3 years of hands-on experience in desi
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: gheibiyousef2000@gmail.com;
-- 📝 [resume](https://drive.google.com/file/d/13X_3Rq_2L4rVO3bkyk4R2mdUX53eXhVP/view?usp=sharing).
+- 📝 [resume](https://drive.google.com/file/d/1MX-X1FP3hzyzhR5bwJ5qAHK5Vv7-24ot/view?usp=sharing).
 
 </br>
 
