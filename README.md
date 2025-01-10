@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 **Hi there, I'm Yousef Gheibi**
 
-Experienced Front-End Developer with over 3 years of hands-on experience in designing and building scalable web applications using Angular. Proficient in creating clean and maintainable code while delivering high-quality user experiences.Familiar with backend technologies and committed to staying up to date with the latest frontend trends and best practices.
+Experienced Front-End Developer with over 4 years of hands-on experience in designing and building scalable web applications using Angular. Proficient in creating clean and maintainable code while delivering high-quality user experiences.Familiar with backend technologies and committed to staying up to date with the latest frontend trends and best practices.
   
 </br>
 
@@ -25,7 +25,7 @@ Experienced Front-End Developer with over 3 years of hands-on experience in desi
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: gheibiyousef2000@gmail.com;
-- 📝 [resume](https://drive.google.com/file/d/1MX-X1FP3hzyzhR5bwJ5qAHK5Vv7-24ot/view?usp=sharing).
+- 📝 [resume](https://drive.google.com/file/d/1_HR4NgCPPmYWyAWO_UW7UInb9cWnJLFh/view?usp=sharing).
 
 </br>
 
