@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 **Hi there, I'm Yousef Gheibi**
 
-Experienced Front-End Developer with over 5 years of hands-on experience in designing and building scalable web applications using Angular. Proficient in creating clean and maintainable code while delivering high-quality user experiences.Familiar with backend technologies and committed to staying up to date with the latest frontend trends and best practices.
+Software Engineer with over 5 years of professional experience in Front-End development, specializing in Angular and building scalable web applications. Strong foundation in software engineering principles, clean code, and maintainable architecture. Recently expanded expertise into Back-End development using Node.js and NestJS, with hands-on experience in building RESTful APIs and working with databases. Passionate about full-stack development and building reliable, high-quality software solutions.
   
 </br>
 
